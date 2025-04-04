@@ -14,6 +14,8 @@ public class Fibonacci {
             System.out.print("(" + i + "):" + Fibonacci.fibo(i) + "\t");
             System.out.print("Bom dia AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
         }
+
+        System.out.print("memes tipos de carinhas")
     }
 
 }
