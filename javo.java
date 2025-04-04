@@ -13,7 +13,6 @@ public class Fibonacci {
 	for (int i = 0; i < 30; i++) {
             System.out.print("(" + i + "):" + Fibonacci.fibo(i) + "\t");
         }
-
     }
 
 }
